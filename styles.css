@@ -1,0 +1,168 @@
+.main {
+
+  width:100%;
+  display: block;
+  padding-top:0;
+  margin-top: 0;
+}
+
+.tittle {
+font-weight: 500;
+padding: 10px 10px;
+color:orange;
+text-align: center;
+text-shadow: black;
+margin-top:70px;
+margin-bottom: 20px;
+font-family: serif;
+}
+
+.logo-main {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  margin-bottom: 100px;
+}
+
+.line1 {
+width: 5%;
+margin-left: auto;
+margin-right:auto;
+border-top: 15px dotted #8c8b8b;
+border-bottom: 0 dotted #fff;
+margin-top:50px;
+margin-bottom: 50px;
+}
+
+.slogan {
+  text-align: center;
+  color: orange;
+}
+.paragraph1-about {
+  text-align: center;
+  font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tittle-activities {
+  text-align: center;
+  color: orange;
+  font-family: serif;
+}
+.paragraph2-about {
+  text-align: center;
+  font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tittle-more-information {
+  text-align: center;
+  color: orange;
+  font-family: serif;
+}
+
+.paragraph3 {
+  text-align: left;
+  font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.discord-channel {
+  text-align: center;
+  color: orange;
+  font-family: serif;
+}
+
+.welcome-link {
+display:block;
+text-align:center;
+}
+
+.prog-master {
+  text-align: center;
+  color: orange;
+  font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 5%;
+}
+
+.prog-list {
+  font-family: serif;
+  display:block;
+  margin-left: 45%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.admin-snowman {
+  text-align: center;
+  color: orange;
+  font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tales-of-tribute {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5%;
+  margin-bottom: 5%;
+  width: 85%;
+  position:relative;
+}
+
+.tales-of-tribute-tittle {
+  text-align: center;
+  font-family: serif;
+  font-weight: 600;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  color:orange;
+
+}
+
+.tot-paragraph1 {
+  margin-left: 10%;
+  margin-right:10%;
+}
+
+.tot-paragraph2 {
+  margin-left: 10%;
+  margin-right:10%;
+}
+
+.current-participants {
+  text-align: center;
+  font-family: serif;
+  color:orange;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.list-of-participants {
+  display: block;
+  font-family:serif;
+  margin-left: 47%;
+  margin-bottom: 5%;
+  margin-top:5%;
+}
+
+.tot-author {
+text-align: center;
+margin-bottom: 5%;
+}
+
+.horseback-dogo {
+  display: block;
+  width: 25%;
+  position:static;
+  margin-left: 38%;
+
+}
