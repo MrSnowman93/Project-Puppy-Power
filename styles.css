@@ -5,6 +5,53 @@
   padding-top:0;
   margin-top: 0;
 }
+#features {
+  margin-left: 100px;
+}
+
+.intro-icon {
+  display: block;
+  font-size: 100px;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.video-container {
+  margin-top:40px;
+  display: block;
+  text-align: center;
+
+}
+
+.information {
+  display:block;
+  font-family: serif;
+  font-size: 20px;
+}
+
+.video{
+  width:390px;
+  height:390px;
+  border-radius: 50px 50px;
+}
+
+.video-header {
+  display: block;
+  text-align: center;
+  font-family: serif;
+}
+
+.tittle-in-navbar{
+font-weight: bold;
+color:orange;
+margin-right:10px;
+}
+
+.small-logo {
+border-radius: 50%;
+}
 
 .tittle {
 font-weight: 500;
@@ -12,17 +59,36 @@ padding: 10px 10px;
 color:orange;
 text-align: center;
 text-shadow: black;
-margin-top:70px;
 margin-bottom: 20px;
 font-family: serif;
+font-size: 50px;
+margin-bottom: 10px;
 }
+.under-tittle {
+  text-align: center;
+  margin-bottom: 150px;
+  color: #D7C0AE;
+  font-family: serif;
+}
+
 
 .logo-main {
   display:block;
   margin-left: auto;
   margin-right: auto;
   width: 35%;
-  margin-bottom: 100px;
+  margin-bottom: 70px;
+  margin-top: 150px;
+}
+
+.info-icon {
+  display: block;
+  font-size: 100px;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+  margin-top:250px;
+
 }
 
 .line1 {
@@ -35,11 +101,42 @@ margin-top:50px;
 margin-bottom: 50px;
 }
 
-.slogan {
+.tittle2 {
+  font-weight: 500;
+  padding: 10px 10px;
+  color:orange;
   text-align: center;
-  color: orange;
-  margin-bottom:100px;
+  text-shadow: black;
+  margin-bottom: 20px;
+  font-family: serif;
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-top:30px;
 }
+
+.line2 {
+  width: 5%;
+  margin-left: auto;
+  margin-right:auto;
+  border-top: 15px dotted #8c8b8b;
+  border-bottom: 0 dotted #fff;
+  margin-top:50px;
+  margin-bottom: 250px;
+}
+
+.contact-me {
+  font-weight: 500;
+  padding: 10px 10px;
+  color:orange;
+  text-align: center;
+  text-shadow: black;
+  margin-bottom: 20px;
+  font-family: serif;
+  font-size: 50px;
+  margin-bottom: 30px;
+  margin-top:50px;
+}
+
 .paragraph1-about {
   text-align: center;
   font-family: serif;
@@ -48,9 +145,16 @@ margin-bottom: 50px;
 }
 
 .tittle-activities {
+  font-weight: 500;
+  padding: 10px 10px;
+  color:orange;
   text-align: center;
-  color: orange;
+  text-shadow: black;
+  margin-bottom: 20px;
   font-family: serif;
+  font-size: 50px;
+  margin-bottom: 150px;
+  margin-top:50px;
 }
 .paragraph2-about {
   text-align: center;
@@ -59,11 +163,7 @@ margin-bottom: 50px;
   margin-bottom: 50px;
 }
 
-.tittle-more-information {
-  text-align: center;
-  color: orange;
-  font-family: serif;
-}
+
 
 .paragraph3 {
   text-align: left;
@@ -73,14 +173,23 @@ margin-bottom: 50px;
 }
 
 .discord-channel {
+  font-weight: 500;
+  padding: 10px 10px;
+  color:orange;
   text-align: center;
-  color: orange;
+  text-shadow: black;
+  margin-bottom: 20px;
   font-family: serif;
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-top:230px;
 }
 
 .welcome-link {
 display:block;
 text-align:center;
+font-family: serif;
+font-size: 30px;
 }
 
 .prog-master {
@@ -89,6 +198,16 @@ text-align:center;
   font-family: serif;
   margin-top: 50px;
   margin-bottom: 5%;
+  font-size: 50px;
+}
+
+.roles-icon {
+  display: block;
+  font-size: 150px;
+  text-align:center;
+  margin-right:50%;
+  margin-top: 50px;
+
 }
 
 .prog-list {
@@ -101,10 +220,24 @@ text-align:center;
 
 .admin-snowman {
   text-align: center;
-  color: orange;
   font-family: serif;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: 250px;
+}
+
+.roles {
+  display: block;
+  font-size:40px;
+  color:orange;
+  margin-left: 5%;
+  margin-top:50px;
+
+
+}
+
+.member-list {
+  font-size: 30px;
+  font-family: serif;
 }
 
 .tales-of-tribute {
@@ -165,5 +298,6 @@ margin-bottom: 5%;
   width: 25%;
   position:static;
   margin-left: 38%;
+  margin-bottom: 100px;
 
 }
